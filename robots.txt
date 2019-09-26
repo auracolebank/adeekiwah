@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoofochu.carrolltonmanor.us/sitemap.xml
